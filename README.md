@@ -35,6 +35,20 @@ Seu objetivo é acumular experiência, ouro e armas, derrotando monstros em dife
 
 - Navegador da web moderno.
 
+  ## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+
+## 💻 Projeto
+
+O DevLinks é um agregador de links para usar como cartão de visitas online.
+
+- [Acesse o projeto finalizado, online](https://hendersonsousa20.github.io/Dragon-Repeller/)
+
 ## Licença
 
 Este projeto é distribuído sob a licença [MIT](LICENSE).
