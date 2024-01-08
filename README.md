@@ -35,7 +35,7 @@ Seu objetivo é acumular experiência, ouro e armas, derrotando monstros em dife
 
 - Navegador da web moderno.
 
-  ## 🚀 Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
